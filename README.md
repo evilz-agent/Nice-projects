@@ -5,7 +5,7 @@
 
 ### extensions
 
-- https://github.com/Humanizr/Humanizer#format-string
+- [Humanizer - Format String](https://github.com/Humanizr/Humanizer#format-string)
 
 ## Functional
 
