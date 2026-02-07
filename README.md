@@ -9,7 +9,7 @@
 
 ## Functional
 
-- http://slides.com/rhwy/being-functional#/
+- [Being Functional Slides](http://slides.com/rhwy/being-functional#/)
 
 ## Algo
 
