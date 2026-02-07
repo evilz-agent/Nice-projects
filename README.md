@@ -13,7 +13,7 @@
 
 ## Algo
 
-- http://www.cs.sfu.ca/~binay/813.2011/Fortune.pdf
+- [Fortune's Algorithm for Voronoi Diagrams (PDF)](http://www.cs.sfu.ca/~binay/813.2011/Fortune.pdf)
 
 ## Swift vs c#
 
