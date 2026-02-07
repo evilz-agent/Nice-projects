@@ -17,5 +17,5 @@
 
 ## Swift vs c#
 
-- http://swiftcomparsion.qiniudn.com/
-- http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf
+- [Swift vs C# Comparison](http://swiftcomparsion.qiniudn.com/)
+- [Swift vs C# Poster (PDF)](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf)
